@@ -1,0 +1,55 @@
+body{
+background-color: #0b1a3a;
+color: white;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+.home-img {
+    width: 300px; 
+    display: block;
+    margin: 20px auto; 
+    border-radius: 10px; 
+}
+.card {
+    background-color: #1c3b75;
+    padding: 15px;
+    margin: 15px auto;
+    width: 320px;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+.message {
+    background-color: #244a8f;
+    padding: 20px;
+    margin: 20px auto;
+    width: 270px;
+    border-radius: 15px;
+}
+
+
+button {
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #7ec8ff;
+    color: black;
+}
+.login-box {
+    background-color: #1c3b75;
+    width: 300px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 15px;
+}
+input {
+    width: 80%;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+}
